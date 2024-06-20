@@ -1,5 +1,5 @@
 # 💫 Qui suis-je ?:
-Bonjour à tous !<br><br>Je suis Thomas, un jeune développeur web en cours de formation 👨🏻‍💻!<br>Actuellement, je suis dans le Var de la France 🇫🇷.
+Bonjour à tous !<br><br>Je suis Thomas, un jeune développeur web en cours de formation 👨🏻‍💻!<br>Je suis actuellement en recherche de stage ou d'alternance dans le Var de la France 🇫🇷.
 
 
 ## 🌐 Socials:
