@@ -9,7 +9,6 @@ I'm Thomas, a junior web developer currently in training 👨🏻‍💻! I am c
 * 🌍  I'm based in France, Vidauban (Var)
 * 🖥️  See my portfolio at [thomas-gambin.com](http://thomas-gambin.com/)
 * ✉️  You can contact me at [t.gambin.pro@gmail.com](mailto:t.gambin.pro@gmail.com)
-* 🤝  I'm open to collaborating on any web project where I can contribute my skills and continue improving to further develop my expertise.
 
 ### Skills
 
