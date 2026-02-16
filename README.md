@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Gambin
 =====================================================================================================================================
 
-French web developer fullstack currently in training 😁😁
+French web developer fullstack for Dev4you 😁😁
 ---------------------------------------------------------
 
 I'm Thomas, a junior web developer currently in training 👨🏻‍💻! I am currently doing a work-study program at Dev4you, a web agency located in La Valette-du-Var (83), France 🇫🇷. Passionate for a long time about everything related to technology, I decided to make a career change into the world of web development by completing two training programs with O'Clock school. The first one lasted 6 months as a fullstack web developer specializing in back-end development, during which I learned web languages such as HTML, CSS, JavaScript, and PHP (with the Symfony framework). The second was for a duration of 6 months titled Application Designer-Developer, where I learned Node.js, React, the use of TypeScript, and other tools like Postman, Figma, and Docker.
